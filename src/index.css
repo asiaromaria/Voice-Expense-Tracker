@@ -4,6 +4,6 @@
 }
 
 body {
-    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5), url(./assets/erik-mclean-I9qcFjyuJGw-unsplash.jpg));
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(./assets/erik-mclean-I9qcFjyuJGw-unsplash.jpg);
     background-size: cover;
 }
